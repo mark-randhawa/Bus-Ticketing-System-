@@ -35,7 +35,7 @@ saveTicketToFile(): Saves ticket details to tickets.txt.
 
 loadTicketsFromFile(): Loads ticket details from tickets.txt.
 
-Utilities:
+**Utilities:**
 
 getValidatedInput(): Validates user input within a range.
 
